@@ -1,0 +1,8 @@
+tempo,loudness,valence,energy,mood
+100,-5,0.2,0.5,sad
+120,-3,0.5,0.7,happy
+150,-1,0.8,0.9,happy
+140,0,0.7,0.8,happy
+130,2,0.6,0.7,happy
+110,3,0.4,0.5,sad
+90,5,0.1,0.3,sad
